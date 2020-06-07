@@ -1,0 +1,21 @@
+1.Java类型系统内建函数式接口
+    1.java.lang.Runable(线程实现接口)
+    2.java.lang.Comparable(数据比较接口)
+    3.java.lang.Comparator(数据比较接口)
+    4.java.io.FileFilter(文件处理时的共用接口)
+    5.more
+    在我们处理时，如果我们发现某一个接口符合我们函数式接口的定义，在JDK8以后的代码中我们都可以通过Lambda表达式解决和实现
+
+    6.Jdk8中提供了java.util.function包，提供了常用的函数式功能接口
+    7.java.util.function.Predicate<T>
+        接收参数对象T，返回一个boolean类型结果
+    8.java.util.function.Comsumer<T>
+        接收参数对象T，不返回结果
+    9.java.util.function.Function<T,R>
+        接收参数对象T，返回结果对象R
+    10.java.util.function.Supplier<T>
+        不接受参数，提供T对象的创建工厂
+    11.java.util.function.UnaryOperator<T>
+        接收参数对象T，返回结果对象T    (它是继承了Function接口，可以使用Function函数式接口里面的apply方法)
+    12.java.util.function.BinaryOperator<T>
+        接收两个T对象，返回一个T对象结果
