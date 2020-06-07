@@ -1,0 +1,15 @@
+1.函数式接口
+
+
+
+2.Lambda语法及使用
+
+
+
+3.Lambda表达式与性原理
+
+
+4.函数式接口(functional interface)
+    1.函数式接口，就是java类型系统中的接口
+    2.函数式接口，是指包含一个接口方法的特殊接口
+    3.语义化检测注解：@FunctionInterface
