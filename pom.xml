@@ -11,6 +11,7 @@
   <modules>
     <module>LambdaDemo01</module>
       <module>LambdaDemo02</module>
+      <module>LambdaDemo03</module>
   </modules>
 
   <name>Study</name>
