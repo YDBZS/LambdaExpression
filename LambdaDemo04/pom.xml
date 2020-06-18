@@ -5,19 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.LambdaExpression</groupId>
-  <artifactId>Study</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>LambdaDemo04</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>LambdaDemo01</module>
-      <module>LambdaDemo02</module>
-      <module>LambdaDemo03</module>
-    <module>LambdaDemo04</module>
-    <module>LambdaDemo05</module>
-    <module>LambdaDemo06</module>
-  </modules>
 
-  <name>Study</name>
+  <name>LambdaDemo04</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
