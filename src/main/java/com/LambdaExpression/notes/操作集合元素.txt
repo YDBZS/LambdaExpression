@@ -1,0 +1,6 @@
+LambdaDemo10
+
+操作集合元素
+    1.类型转换：其他类型(创建\获取) -> Stream对象
+    2.类型转换：Stream对象 -> 其他类型
+    3.Stream常见API操作

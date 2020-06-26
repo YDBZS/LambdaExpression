@@ -15,6 +15,11 @@
     <module>LambdaDemo04</module>
     <module>LambdaDemo05</module>
     <module>LambdaDemo06</module>
+      <module>LambdaDemo07</module>
+    <module>LambdaDemo08</module>
+    <module>LambdaDemo09</module>
+      <module>LambdaDemo10</module>
+      <module>LambdaDemo11</module>
   </modules>
 
   <name>Study</name>
@@ -33,6 +38,11 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.12</version>
     </dependency>
   </dependencies>
 
